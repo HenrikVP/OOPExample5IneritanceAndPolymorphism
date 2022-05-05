@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPExample5IneritanceAndPolymorphism", "OOPExample5IneritanceAndPolymorphism.csproj", "{D48CD4AA-AA13-4CF4-A8F5-D1BA16305845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D48CD4AA-AA13-4CF4-A8F5-D1BA16305845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D48CD4AA-AA13-4CF4-A8F5-D1BA16305845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D48CD4AA-AA13-4CF4-A8F5-D1BA16305845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D48CD4AA-AA13-4CF4-A8F5-D1BA16305845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {301592B4-19D4-4232-BA52-FF79B13F1C53}
+	EndGlobalSection
+EndGlobal

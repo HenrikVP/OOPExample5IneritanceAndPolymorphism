@@ -25,7 +25,8 @@ m1.GetNumber(false);
 
 SubTeacher st1 = new SubTeacher();
 st1.Hours = 15;
-
+st1.Month = 15;
+Console.WriteLine($"Month started {st1.Month}");
 Student s1 = new Student();
 s1.PcId = 10;
 

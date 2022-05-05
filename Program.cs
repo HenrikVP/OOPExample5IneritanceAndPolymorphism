@@ -28,3 +28,9 @@ st1.Hours = 15;
 
 Student s1 = new Student();
 s1.PcId = 10;
+
+Student s2 = new Student() { Name = "Gert", Id = 1 };
+
+Student s3 = new Student("Uma", 69);
+Console.WriteLine($"Student3 hedder {s3.Name} og har pcnr {s3.PcId}.");
+DateTime dt = new DateTime(1989, 11, 9);
